@@ -2,7 +2,7 @@
 % Please edit documentation in R/baseline.chrTable.R
 \name{chrTable.by.4group}
 \alias{chrTable.by.4group}
-\title{Create Baseline Characteristics Table by three Groups}
+\title{Create Baseline Characteristics Table by 4 Groups}
 \usage{
 chrTable.by.4group(
   variable,
