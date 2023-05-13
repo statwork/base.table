@@ -1,4 +1,4 @@
-#' @title Create Baseline Characteristics Table by three Groups
+#' @title Create Baseline Characteristics Table by 4 Groups
 #'
 #' @description The \code{chrTable.by.4group} function takes data and creates a table for baseline characteristics stratified by 4 groups. Both categorical and numerical variables are included and analyzed together. P values will be bolded in the Markdown document if it is less than 0.05.
 #' @param variable a vector of variables
